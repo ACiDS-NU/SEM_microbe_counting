@@ -8,6 +8,11 @@ The image below shows a cross-sectional view of the Deep Mine Microbial Observat
 ![alt text](https://github.com/ACiDS-NU/SEM_microbe_counting/blob/master/DeMMO.png "DeMMO Map")
 
 # Cultivating deep subsurface biofilm communities at DeMMO
-Images were taken from materials used in *in situ* cultivation experiments at the Deep Mine Microbial Observatory (DeMMO).  Images with “D1” in the file name are from DeMMO1, a borehole at a depth of 800 feet, “D3” is DeMMO3, a borehole at a depth of 2,000 feet, and “D6” is DeMMO6, a borehole at a depth of 4,850 feet. These experiments targeted the growth of deep subsurface biofilm communities using minerals representative of the host rock lithology (pyrite, hematite, magnetite, pyrolusite, muscovite, siderite, calcite) and inert controls (glass). Watch [this](https://www.youtube.com/watch?v=b80g91Z4uEQ&feature=youtu.be) short clip to see how we installed flow-through bioreactors in the outflow of the boreholes at DeMMO. The bioreactors were filled with inert glass or minerals, and over time these materials were colonized by bacteria and archaea. Inside each bioreactor, we included a polished chip of mineral or a glass slide - these were imaged using a scanning electron microscope (SEM). 
+Watch [this](https://www.youtube.com/watch?v=b80g91Z4uEQ&feature=youtu.be) short clip to see how we installed flow-through bioreactors in the outflow of the boreholes at DeMMO. The bioreactors were filled with minerals representative of the host rock lithology or inert glass, and over time these materials were colonized by bacteria and archaea. Inside each bioreactor, we included a polished chip of mineral (pyrite, hematite, siderite, magnetite, pyrolusite, calcite) or a glass slide - these were imaged using a scanning electron microscope (SEM). 
 
 ![alt text](https://github.com/ACiDS-NU/SEM_microbe_counting/blob/master/experiment-01.png "Experiment Design")
+
+The image above shows a polished chip of the mineral pyrolusite (MnO2) that was included in a bioreactor and an SEM image we took of the pyrolusite surface. Microbes are highlighted in green. 
+
+For each mineral type used in the bioreactors, we took ~20 photos. We need to count the number of cells in each photo in order to calculate cell densities on each mineral type. Ultimately we want to know which mineral the microbes liked best! 
+
