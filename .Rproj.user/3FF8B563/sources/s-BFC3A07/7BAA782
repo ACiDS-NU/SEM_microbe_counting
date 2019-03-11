@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552261200954.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7BAA782",
+    "lastKnownWriteTime" : 1552261270,
+    "last_content_update" : 1552261476215,
+    "path" : "~/Desktop/DeMMO_BiofilmPub2018/DeMMO_BiofilmPub2019/CellCounts/CellCounter/cellCounter.R",
+    "project_path" : "cellCounter.R",
+    "properties" : {
+        "cursorPosition" : "12,43",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
